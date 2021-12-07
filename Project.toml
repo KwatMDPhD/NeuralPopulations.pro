@@ -2,5 +2,6 @@
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DictExtension = "0f7716a5-5f77-4abc-9223-ccb88496a673"
+Gene = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 TableAccess = "a707cf2c-1109-433c-8482-52c38c7a14cd"
