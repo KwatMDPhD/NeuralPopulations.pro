@@ -11,5 +11,7 @@ SE = LeanProject.read_setting(se)
 
 # ---
 
+using DataFrames
+
 using DictExtension
 using TableAccess
