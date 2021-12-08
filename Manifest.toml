@@ -64,9 +64,9 @@ version = "1.3.0"
 
 [[deps.DataStructures]]
 deps = ["Compat", "InteractiveUtils", "OrderedCollections"]
-git-tree-sha1 = "7d9d316f04214f7efdbb6398d545446e246eff02"
+git-tree-sha1 = "3daef5523dd2e769dad2365274f760ff5f282c7d"
 uuid = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
-version = "0.18.10"
+version = "0.18.11"
 
 [[deps.DataValueInterfaces]]
 git-tree-sha1 = "bfc1187b79289637fa0ef6d4436ebdfe6905cbd6"
@@ -124,7 +124,7 @@ uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
 [[deps.Gene]]
 deps = ["BenchmarkTools", "DataFrames", "Revise", "TableAccess"]
-git-tree-sha1 = "69969a2469746b9a810f4dd7b6d8bc940ae62265"
+git-tree-sha1 = "f68eee3d248e311099b2419cf788a0fbebe62afd"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/Gene.jl"
 uuid = "cc9fd088-fb1a-4f6d-a318-f3eb0700c546"
