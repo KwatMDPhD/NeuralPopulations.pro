@@ -1,12 +1,12 @@
-# get_brain_cell_gene.pro
+# neural_populations.pro
 
-Get brain cell genes :brain:
+Get neural-cell genes :brain:
 
 ---
 
 ## :wave: :cowboy_hat_face: Howdy
 
-To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/get_brain_cell_gene.pro/issues/new/choose).
+To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/neural_populations.pro/issues/new/choose).
 
 ---
 
