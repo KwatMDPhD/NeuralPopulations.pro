@@ -1,6 +1,6 @@
 # neural_populations.pro
 
-Get neural-cell genes :brain:
+Neural-population data :brain:
 
 ---
 
