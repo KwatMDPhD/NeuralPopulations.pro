@@ -1,6 +1,6 @@
 # NeuralPopulations.pro
 
-Do something :blush:
+Neural populations and their genes :blush:
 
 ---
 
