@@ -1,4 +1,8 @@
+name = "NeuralPopulations"
+uuid = "e5d451a4-5871-47a2-a6f8-825975412af4"
+authors = ["KwatMDPhD <kwat.me@icloud.com>"]
+version = "0.1.0"
+
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-LeanProject = "c0bda0dd-97c7-4669-9191-98531c0d3141"
 OnePiece = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
