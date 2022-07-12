@@ -1,7 +1,5 @@
 # NeuralPopulations.pro
 
-Neural populations and their genes :blush:
-
 ---
 
 ## :wave: :cowboy_hat_face: Howdy
