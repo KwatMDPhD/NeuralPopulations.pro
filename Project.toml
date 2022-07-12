@@ -1,9 +1,8 @@
-name = "NeuralPopulations"
-uuid = "e5d451a4-5871-47a2-a6f8-825975412af4"
+name = "NeuralPopulation"
+uuid = "e532d4b2-102f-4162-b855-1df9a7f73038"
 authors = ["KwatMDPhD <kwat.me@icloud.com>"]
 version = "0.1.0"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 OnePiece = "1fe83854-81c0-42f7-afc9-71ba9af673ca"
